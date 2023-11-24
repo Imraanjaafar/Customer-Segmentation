@@ -5,7 +5,7 @@
 This assessment necessitated  the creation of a deep learning model for forecasting the campaign's results.
 
 ## Directory Structure
-- [Imran_Assesment1.py](https://github.com/Imraanjaafar/Computer-Vision-Image-Classification-for-Cracks-or-No-Cracks-Dataset/blob/main/Imran_Assesment1.py)
+- Ahmad_Imran_CustomerSegmentation.py
 
 This code implements a transfer learning pipeline using TensorFlow and Keras for image classification. Let's break down the code into different sections:
 
