@@ -5,7 +5,7 @@ Customer segmentation involves categorizing individuals based on age, gender, pr
 
 ## Directory Structure
 - [Ahmad_Imran_CustomerSegmentation.py](https://github.com/Imraanjaafar/Customer-Segmentation/blob/main/Ahmad_Imran_CustomerSegmentation.py)
-Here's a generalized explanation of the code:
+  Here's a generalized explanation of the code:
 
 ### Import Libraries:
 
@@ -73,7 +73,12 @@ Here's a generalized explanation of the code:
 
 ## Results
 
+- The model demonstrated its effectiveness in customer segmentation by achieving an 89.00% accuracy on the test set.
+
 
 ## Model Architecture
+
+![model](https://github.com/Imraanjaafar/Customer-Segmentation/assets/151133555/b8245d7d-e5d3-4036-95bf-b01ff8359baa)
+
 
 
